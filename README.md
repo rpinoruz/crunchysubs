@@ -8,7 +8,7 @@ running the following command:
 ```
 pip install -r requirements.txt
 ```
-Then you can run the script by simply running the crunchysubs.py file with the
+Then you can run the script by simply running the [crunchysubs.py](crunchysubs.py) file with the
 python interpreter:
 ```
 python crunchysubs.py
